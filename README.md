@@ -1,2 +1,2 @@
 # cpp-team-project
-# Wojciech Ochman
+# Wojciech Ochman - Student A
